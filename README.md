@@ -68,7 +68,7 @@ Used 2 relays to bypass the voltage driver. This Directly connect's the battry w
 
 | Demo Video | Close-up | Action Shot |
 |------------|----------|-------------|
-| ![Video](images/demo1.gif) | ![Close](images/20240421_100607.jpg) | ![Kick](images/kick.gif) |
+| ![Video](images/Video.mp4) | ![Close](images/20240421_100607.jpg) | ![Kick](images/kick.gif) |
 
 ---
 

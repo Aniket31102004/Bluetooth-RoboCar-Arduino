@@ -43,7 +43,9 @@ A powerful and agile **Arduino-powered robot car** controlled via Bluetooth, equ
 
 ## 🧩 System Block Diagram
 
-![Block Diagram](circuit diagram/)
+![Block Diagram](circuit_diagram/download.jpg)
+
+![Block Diagram](circuit_diagram/download.png)
 
 ---
 

@@ -43,15 +43,14 @@ A powerful and agile **Arduino-powered robot car** controlled via Bluetooth, equ
 
 ## 🧩 System Block Diagram
 
-![Block Diagram](diagrams/block-diagram.png)
+![Block Diagram](circuit diagram/)
 
 ---
 
 ## ⚡ Voltage Recovery Circuit
 
-![Voltage Circuit](diagrams/voltage-recovery-circuit.png)
-
 Ensures full **12V output** to motors by compensating for **voltage drops** caused by load or wiring.
+Used 2 relays to bypass the voltage driver. This Directly connect's the battry with motor, so no drop. Also one more design is to use an SCR or Transistor. I had many designs ready but due to restrictions couldnt execute them. 
 
 ---
 
